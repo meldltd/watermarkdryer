@@ -1,0 +1,7 @@
+/bin/
+/dist/
+/coverage.out
+/graphify-out/
+/.graphify/
+*.watermarkdryer.bak
+.watermarkdryer-tmp-*
